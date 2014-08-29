@@ -1,0 +1,21 @@
+[submodule "Adaptive"]
+	path = Adaptive
+	url = https://github.com/bdentino/Qtino.Adaptive.git
+[submodule "DynamicSvg"]
+	path = DynamicSvg
+	url = https://github.com/bdentino/Qtino.DynamicSvg.git
+[submodule "GoogleFeeds"]
+	path = GoogleFeeds
+	url = https://github.com/bdentino/Qtino.GoogleFeeds.git
+[submodule "NativeTextInput"]
+	path = NativeTextInput
+	url = https://github.com/bdentino/Qtino.NativeTextInput.git
+[submodule "Readability"]
+	path = Readability
+	url = https://github.com/bdentino/Qtino.Readability.git
+[submodule "SharingKit"]
+	path = SharingKit
+	url = https://github.com/bdentino/Qtino.SharingKit.git
+[submodule "Spritz"]
+	path = Spritz
+	url = https://github.com/bdentino/Qtino.Spritz.git
