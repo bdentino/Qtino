@@ -1,4 +1,6 @@
 Build/
+Builds/
+build.sh
 
 # C++ objects and libs
 
